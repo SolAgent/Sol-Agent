@@ -26,7 +26,7 @@
 ## Local Dev
 
 ###  Run locally on Mac or Linux
-* Clone this repo - `git clone https://github.com/vivekcodder/solagent`
+* Clone this repo - `git clone https://github.com/SolAgent/sol-agent`
 * Ensure the latest LTS Node is installed with yarn
 * Ensure Python 3.12.7 is installed with poetry
 * Ensure Docker and Docker Compose are installed
