@@ -63,8 +63,8 @@
 * OpenAI `gpt-4o` is recommended over `gpt-4o-mini` simply for AI IQ but if cost is a concern then mini may work for your agent usage
 
 ## Production Apps
-* [WB AI Agent](https://ai.walletbubbles.com)
-* [Solana Agent X Bot](https://solana-agent.com)
+* [WB AI Agent]()
+* [Solana Agent X Bot](https://solagent.uwu.ai)
 
 ## Contributing
 Contributions to SolAgent are welcome! Please feel free to submit a Pull Request.
