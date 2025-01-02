@@ -1,6 +1,6 @@
 # SolAgent
 
-[![Solana Swarm](https://portswigger.net/cms/images/06/a0/83da-article-211231-matric-body.jpg)](https://solagent.uwu.ai)
+[![Solana Swarm](https://portswigger.net/cms/images/06/a0/83da-article-211231-matric-body.jpg)](https://solagent.carrd.co)
 
 ## Why SolAgent
 
@@ -64,7 +64,7 @@
 
 ## Production Apps
 
-* [Solana Agent X Bot](https://solagent.uwu.ai)
+* [Solana Agent X Bot](https://solagent.carrd.co)
 
 ## Contributing
 Contributions to SolAgent are welcome! Please feel free to submit a Pull Request.
